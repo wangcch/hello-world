@@ -1,0 +1,32 @@
+>首次运行配置用户名和邮箱
+
+git config --global user.name "wangcch"
+git config --global user.email "ci713@qq.com"
+
+>初始化仓库
+
+git init
+
+>添加远程仓库
+
+git remote add origin https://...
+
+>获取仓库内容更新
+
+git pull origin master
+
+>查看本地修改且未提交文件
+
+git status
+
+>将要提交的文件的信息添加到索引库中
+
+git add test.txt
+
+>填写提交说明
+
+git commit -m "..."
+
+>更新提交仓库内容
+
+git push origin master

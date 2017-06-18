@@ -1,5 +1,4 @@
 # hello-world
-<hr>
 ## how to use git (basis)
 
 * Run the configure user name and email for the first time

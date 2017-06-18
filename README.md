@@ -1,6 +1,6 @@
 # hello-world
 <hr>
-##how to use git (basis)
+## how to use git (basis)
 
 * Run the configure user name and email for the first time
 
@@ -31,4 +31,4 @@
 		git commit -m "..."
 * Update warehouse content
 		
-		git push orgin master
+		git push origin master
